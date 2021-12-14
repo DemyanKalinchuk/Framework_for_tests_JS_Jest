@@ -1,12 +1,23 @@
 {
   "name": "untitled",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "devDependencies": {
+    "jest": "^27.4.5"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DemyanKalinchuk/Framework_for_tests_JS_Jest.git"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DemyanKalinchuk/Framework_for_tests_JS_Jest/issues"
+  },
+  "homepage": "https://github.com/DemyanKalinchuk/Framework_for_tests_JS_Jest#readme",
+  "description": ""
 }
